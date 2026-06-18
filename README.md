@@ -41,3 +41,9 @@ Each skill is a single `SKILL.md` — drop it in `~/.claude/skills/` and Claude 
 *Honest copy only — these skills never fabricate claims, specs, or performance numbers. Validate keywords/volume with real marketplace data.*
 
 *Made for the Claude Skills ecosystem.*
+
+## 🔗 More Claude Skill Packs
+
+- 💸 [Finance Skills](https://github.com/Uhudsavasindankacanokcu2/finance-skills-for-claude) — cash flow, runway, invoices, budgets, pricing
+- ⚖️ [Legal Skills](https://github.com/Uhudsavasindankacanokcu2/legal-skills-for-claude) — contract review, drafting, negotiation
+- 🧑‍💼 [Recruiting & HR Skills](https://github.com/Uhudsavasindankacanokcu2/recruiting-skills-for-claude) — JDs, resume screening, interviews
