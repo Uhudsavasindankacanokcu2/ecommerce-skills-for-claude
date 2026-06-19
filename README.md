@@ -25,6 +25,54 @@ Each skill is a single `SKILL.md` — drop it in `~/.claude/skills/` and Claude 
 
 ---
 
+
+---
+
+## 👀 See it in action
+
+**You paste your weak Amazon listing:**
+
+```
+Title: Water Bottle Stainless Steel 32oz
+Bullets:
+- Made of stainless steel
+- Holds 32oz
+- Keeps drinks cold
+- Good quality
+- Comes in blue
+```
+
+**Claude returns** (listing-optimizer skill):
+
+---
+
+**Title (keyword-front-loaded, within Amazon's limit):**
+> Insulated Water Bottle 32oz — Stainless Steel, Double-Wall Vacuum, Keeps Cold 24hrs / Hot 12hrs — Leakproof Sports & Gym Flask (Blue)
+
+**Bullets (benefit-led, not a spec dump):**
+- **STAYS COLD ALL DAY** — double-wall vacuum insulation keeps drinks ice-cold 24 hrs / hot 12 hrs, so your water's still cold after a full workout or commute.
+- **NO LEAKS, NO SWEAT** — leakproof lid + condensation-free exterior means it's safe in your bag next to a laptop.
+- **BIG 32OZ = FEWER REFILLS** — hits your daily hydration goal with one fill; fits standard cup holders.
+- **BUILT TO LAST** — premium 18/8 food-grade stainless steel, rust- and odor-resistant, BPA-free.
+- **GRAB-AND-GO** — lightweight, one-hand cap, sweat-proof grip for gym, hiking, office, and travel.
+
+**Backend search keywords (hidden field):**
+> insulated flask gym thermos metal reusable hydro sports hiking large cold hot vacuum tumbler
+
+**Conversion fixes (the part that actually moves sales):**
+1. **Add a lifestyle image** — bottle in-use (gym/desk), not just on white. #1 driver of clicks.
+2. **Add an infographic** — "24hr cold / 12hr hot" visualized; insulation cutaway.
+3. **Add a size-comparison image** — 32oz vs a standard bottle (sets expectations, cuts "bigger than I thought" returns).
+4. Original title had no buyer keywords ("insulated", "leakproof", "24hr") — that's why it wasn't ranking.
+
+*Honest copy only — no fabricated certifications or claims. Validate keyword volume with real marketplace data.*
+
+---
+
+> The skill led every bullet with a **benefit**, added the buyer keywords the original was missing, and flagged the images that actually convert.
+
+---
+
 ## 💎 Pro pack — 6 skills
 
 **[E-commerce Skills Pro →](GUMROAD_LINK_HERE)** adds:
